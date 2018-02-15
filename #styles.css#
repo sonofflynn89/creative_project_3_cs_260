@@ -28,36 +28,7 @@ p {
 
 }
 
-#funFactPic {
-    padding-top: 50px;
-    height:300px;
-    padding-left: 38%
-    
-}
 
-.inputForm form {
-    text-align:  center;
-    padding-left: 44%;
-    margin-bottom: 25px;
-    margin-top: 25px;
-}
-
-label {
-    font-family: "Indie Flower"
-}
-
-input {
-    font-family: "Indie Flower";
-    text-align: center;
-}
-
-form {
-    padding-right: 45%
-}
-
-form p {
-    text-align: left;
-}
 
 .main_container img {
     width: 90%;
